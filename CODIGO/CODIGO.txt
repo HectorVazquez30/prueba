@@ -1,3 +1,5 @@
 DEVELOP : Rama utilizada  para el desarrollo de codigo fuente en etapa de desarrollo
 
 PREPRODUCTION : Rama utilizada  para comprobar el codigo fuente en preproduccion
+
+PRODUCTION : Rama utilizada  para desplegar el codigo fuente al usuario final
